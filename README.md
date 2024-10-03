@@ -1,0 +1,22 @@
+# 💫 About Me:
+About Me:<br>Hi! I'm Dhanuja Vidya, a passionate software developer from India. I enjoy exploring new technologies and applying them to real-world problems. My primary focus areas include web development and artificial intelligence.<br><br>🚀 I'm Currently Working On:<br>Digital Drawing Website: Continuously enhancing my web-based application with new features like zoom functionality, clip art integration, and advanced text tools.<br><br>🤝 I'm Looking to Collaborate On:<br>AI & Machine Learning Projects: Interested in partnerships that focus on predictive modeling and data analysis, particularly in agriculture or social impact.<br>Web Development: Open to collaborating on front-end and full-stack applications using HTML, CSS, JavaScript, and MongoDB.<br>Open Source Contributions: Keen to contribute to and collaborate on open-source projects that benefit the community.<br>Data Visualization: Excited to work with others on creating dashboards and visualizing data insights effectively.<br>Innovative Side Projects: Open to teaming up on creative side projects that push the boundaries of technology.<br><br>🆘 I'm Looking for Help With:<br>AI Model Development: Seeking guidance on implementing machine learning algorithms and optimizing models for better accuracy.<br>Web Development Techniques: Looking for tips and resources to improve my skills in modern web frameworks and responsive design.<br>Data Analytics: Interested in learning more about advanced analytics techniques and best practices for data visualization.<br><br>📚 I'm Currently Learning:<br>Advanced AI Techniques: Diving deeper into machine learning algorithms and frameworks such as TensorFlow and PyTorch.<br>JavaScript Frameworks: Exploring modern JavaScript frameworks like React.js to enhance my web development skills.<br>Data Analysis Tools: Learning how to utilize advanced features in Tableau and other data visualization tools for impactful insights.<br><br>❓ Ask Me About:<br>My projects in web development and AI.<br>Tips for starting in programming and best practices.<br>Experiences in participating in tech expos and symposiums.<br><br>🎉 Fun Fact:<br>I have solved over 45+ problems on LeetCode and earned a 4-star silver badge for C and Java on HackerRank! I love tackling coding challenges in my spare time.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanuja-vidya-ab1175321) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dhanuja2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanuja2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuja2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dhanuja2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!---
+Dhanuja2006/Dhanuja2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
